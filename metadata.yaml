@@ -1,0 +1,40 @@
+_repo: One-dialogue-or-Colloquye-of-Erasmus--entituled-Diuersoria-before-the-Translator-procede-in-t__39038
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Hake, Edward, active 1560-1604
+    aliases:
+    - E. H. (Edward Hake)
+    - Hake, Edwarde
+    - H., E. (Edward Hake)
+    gutenberg_agent_id: '39805'
+    url: http://www.gutenberg.org/2009/agents/39805
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Erasmus, Desiderius
+    alias: Erasmus, of Rotterdam
+    birthdate: 1469
+    deathdate: 1536
+    gutenberg_agent_id: '3026'
+    url: http://www.gutenberg.org/2009/agents/3026
+    wikipedia: http://en.wikipedia.org/wiki/Erasmus
+description: Translation attributed to Edward Hake.
+gutenberg_issued: '2012-03-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39038'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Imaginary conversations'
+- !lcsh 'Dialogues, Latin (Medieval and modern) -- Translations into English'
+- !lcc 'PA'
+title: "One dialogue, or Colloquye of Erasmus (entituled Diuersoria)\r\nTranslated\
+  \ oute of Latten into Englyshe: And Imprinted, to the ende that the Judgement of\
+  \ the Learned maye be hadde before the Translator procede in the reste."
+url: http://www.gutenberg.org/ebooks/39038
